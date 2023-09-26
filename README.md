@@ -6,7 +6,7 @@ Task 1
 
 [Task 2](https://github.com/AKissMail/DID3304)
 
-Task 3 - todo
+[Task 3](https://github.com/AKissMail/DID3304/blob/main/assignment_3/task_3.md)
 
 [Task 4](https://github.com/AKissMail/DID3304/blob/main/assignment_4/main_py_nodes.md)
 
