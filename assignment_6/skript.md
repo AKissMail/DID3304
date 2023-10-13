@@ -1,3 +1,5 @@
+# Link to the [Video](ard.de) 
+
 # Hello, World, and why is it a special sentence?
 It doesn't matter where in the world you ask programming students
 ; they will all know the sentence "Hello, world." But why is this?
