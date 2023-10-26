@@ -14,3 +14,5 @@ Task 1 - This is my digital portfolio for DID3304 at NTNU in 2023 - Done
 [Task 7](https://github.com/AKissMail/DID3304/blob/main/assignment_7/feedback.md) - Done
 
 [Task 8](https://github.com/AKissMail/DID3304/blob/main/assignment_8/overview_assigment_8.md) - @todo 
+Link for now: 
+https://docs.google.com/document/d/1_hBEfmLYgdvZozdBadsf2N-vZXyC5P_OC8BUAvN4MOI/edit?usp=sharing
